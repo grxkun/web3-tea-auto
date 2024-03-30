@@ -1,0 +1,27 @@
+{
+  "name": "web3-tea-auto",
+  "version": "1.1.4",
+  "description": "building an advanced front end for Web3 applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grxkun/web3-tea-auto.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/web3-tea-auto/issues"
+  },
+  "homepage": "https://github.com/grxkun/web3-tea-auto#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "web3": "^4.7.0"
+  }
+}
